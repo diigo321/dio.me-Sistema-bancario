@@ -3,7 +3,7 @@ Projeto de estudo para o desafio Criando um Sistema Bancário com Python, do boo
 Executar
 Requer Python 3. Execute no terminal:
 ```bash
-python sistema\_bancario.py
+python sistema_bancario.py
 ```
 Funcionalidades
 Depósitos positivos.
